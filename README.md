@@ -1,4 +1,4 @@
-# author-icon-deleter
+# Mentioning message deleter
 
 右クリックメニューに「自分のアイコンがついているメッセージを削除」を追加するBotです。
 
